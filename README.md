@@ -3,6 +3,7 @@
 ## 学习
 
 - [【组件思想】【译】容器组件和展示组件](https://github.com/liangzai92/articles/issues/11)
+- [【组件思想】【译】容器组件（Container Components）](https://github.com/liangzai92/articles/issues/13)
 - [【状态管理】前端状态管理与有限状态机](https://github.com/liangzai92/articles/issues/6)
 - [【NODEJS】理解 Koa 框架中间件原理](https://github.com/liangzai92/articles/issues/4)
 - [【NODEJS】NODE 下 sqlite3 的使用](https://github.com/liangzai92/articles/issues/10)
