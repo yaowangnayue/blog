@@ -36,4 +36,4 @@
 - [markdown for 微信](http://md.adebibi.com)
 - 公众号：大前端艺术家
 
-<img src="http://qiniu.adebibi.com/qrcode-web.jpg" width="150px;height:auto;"><img src="http://qiniu.adebibi.com/qrcode-zan.jpeg" width="150px;height:auto;">
+<img src="http://qiniu.adebibi.com/qrcode-web.jpg" width="180px;height:auto;margin-right:30px"><img src="http://qiniu.adebibi.com/qrcode-zan.jpeg" width="180px;height:auto;">
