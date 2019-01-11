@@ -14,7 +14,6 @@
 ## 面试
 
 - [【设计模式】前端必懂 EventEmitter，不懂会丢人](https://github.com/liangzai92/articles/issues/2)
-- [【浏览器】浏览器的同源策略，跨域方案](https://github.com/liangzai92/articles/issues/12)
 - [【JS 基础】你不是很懂 this 吗，做道题试试](https://github.com/liangzai92/articles/issues/1)
 - [【JS 基础】彻底理解变量与函数的声明提升](https://github.com/liangzai92/articles/issues/9)
 
