@@ -37,3 +37,7 @@
 - 公众号：大前端艺术家
 
 <img src="http://qiniu.adebibi.com/qrcode-web.jpg" width="180px;height:auto;margin-right:30px"><img src="http://qiniu.adebibi.com/qrcode-zan.jpeg" width="180px;height:auto;">
+
+## 为什么要关注公众号
+
+公众号以推文为主，内容除了技术还有很多工作生活思考的东西，博客主要是收录技术文章。
