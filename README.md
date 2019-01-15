@@ -8,7 +8,8 @@
 - [【NODEJS】理解 Koa 框架中间件原理](https://github.com/liangzai92/articles/issues/4)
 - [【NODEJS】NODE 下 sqlite3 的使用](https://github.com/liangzai92/articles/issues/10)
 - [【移动端兼容性】移动 web 开发几个明显的兼容性问题](https://github.com/liangzai92/articles/issues/3)
-- [【VUE】Vuex 快速上手使用](https://github.com/liangzai92/articles/issues/15)
+- [【VUE】Vuex 快速使用](https://github.com/liangzai92/articles/issues/15)
+- [【VUE】【正在写作】Vuex 源码解读](https://github.com/liangzai92/articles/issues/15)
 - [【微信小程序】微信小程序实现 watch 属性监听数据变化.md](https://github.com/liangzai92/articles/issues/5)
 
 ## 面试
