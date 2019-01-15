@@ -17,6 +17,7 @@
 - [【设计模式】前端必懂 EventEmitter，不懂会丢人](https://github.com/liangzai92/articles/issues/2)
 - [【JS 基础】你不是很懂 this 吗，做道题试试](https://github.com/liangzai92/articles/issues/1)
 - [【JS 基础】彻底理解变量与函数的声明提升](https://github.com/liangzai92/articles/issues/9)
+- [【面试小题】闭包模拟块级作用域](https://github.com/liangzai92/articles/issues/16)
 
 ## 其它
 
