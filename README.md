@@ -4,12 +4,13 @@
 
 - [【组件思想】【译】容器组件和展示组件](https://github.com/liangzai92/articles/issues/11)
 - [【组件思想】【译】容器组件（Container Components）](https://github.com/liangzai92/articles/issues/13)
-- [【状态管理】前端状态管理与有限状态机](https://github.com/liangzai92/articles/issues/6)
 - [【NODEJS】理解 Koa 框架中间件原理](https://github.com/liangzai92/articles/issues/4)
 - [【NODEJS】NODE 下 sqlite3 的使用](https://github.com/liangzai92/articles/issues/10)
 - [【移动端兼容性】移动 web 开发几个明显的兼容性问题](https://github.com/liangzai92/articles/issues/3)
-- [【VUE】Vuex 快速使用](https://github.com/liangzai92/articles/issues/15)
-- [【VUE】Vuex 源码解读【正在写作】](https://github.com/liangzai92/articles/issues/15)
+- [【状态管理】前端状态管理与有限状态机](https://github.com/liangzai92/articles/issues/6)
+- [【状态管理】【VUE】Vuex 是什么，为什么需要](https://github.com/liangzai92/articles/issues/17)
+- [【状态管理】【VUE】Vuex 快速使用](https://github.com/liangzai92/articles/issues/15)
+- [【状态管理】【VUE】Vuex 源码解读【正在写作】](https://github.com/liangzai92/articles/issues/15)
 - [【微信小程序】微信小程序实现 watch 属性监听数据变化.md](https://github.com/liangzai92/articles/issues/5)
 
 ## 面试
